@@ -1,0 +1,38 @@
+
+.header{
+    background-color: #111;
+    height: 670px;
+}
+.inner__div{
+    padding-top: 220px;
+}
+.header__content .btn{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    letter-spacing: 5px;
+    border: 0;
+    width: 312px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.header__content h2{
+    color: white;
+    font-weight: 400;
+    font-style: inherit;
+    text-align: center;
+    margin: 5px;
+    margin-top: 15px;
+    letter-spacing: 2px;
+}
+
+.header__content h1{
+    font-size: 3rem;
+    color: white;
+    font-weight: 700;
+    /* margin-top: 100px; */
+    text-align: center;
+    letter-spacing: 3px;
+}
